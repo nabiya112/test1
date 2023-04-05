@@ -29,3 +29,4 @@ my_new_car.read_odometer()
 
 print("1")
 print("hello")
+print("hi")
